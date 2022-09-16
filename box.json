@@ -1,8 +1,8 @@
 {
 	"id": "com.demo.gauge",
-	"version": "1.0.0",
-	"name": "Demo Gauge",
-	"description": "A gauge demo",
+	"version": "1.0.1",
+	"name": "Demo Gauge GitHub",
+	"description": "A gauge demo on GitHub",
 	"newInstancePrefix": "Gauge",
 	"icon": "https://mayrockd.github.io/customwidget_gauge/home-house-office-icon.png",
 	"vendor": "Demo",
