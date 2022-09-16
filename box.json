@@ -25,7 +25,7 @@
 		},
 		{
 			"kind": "builder",
-			"tag": "com-demo-box-bps",
+			"tag": "com-demo-gauge-bps",
 			"url": "https://mayrockd.github.io/customwidget_gauge/box_bps.js",
 			"integrity": "",
 			"ignoreIntegrity": true
